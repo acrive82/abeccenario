@@ -1,0 +1,2 @@
+# abeccenario
+Fondamenti di informatica
